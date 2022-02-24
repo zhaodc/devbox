@@ -2,7 +2,7 @@
 
 ## List
 
-[Github Pages Guide](./githuab-pages)
+[Github Pages Guide](./github-pages)
 
 
 
