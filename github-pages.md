@@ -2,7 +2,7 @@
 
 ## 1. Create a github account
 
-* go to https://github.com, click `Sign up`
+* go to [https://github.com]: https://github.com, click `Sign up`
 
   <img src="./github-pages.assets/image-20220224143802909.png" alt="image-20220224143802909" style="zoom: 25%;" />	
 
@@ -12,7 +12,7 @@
 
   <img src="./github-pages.assets/image-20220224144018985.png" alt="image-20220224144018985" style="zoom:67%;" />
 
-* give a `name` and make is `public`
+* give a `name` and make it `public`
 
 * ![image-20220224144224507](./github-pages.assets/image-20220224144224507.png)
 
