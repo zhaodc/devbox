@@ -2,7 +2,7 @@
 
 ## List
 
-https://zhaodc.github.io/devbox/github-pages
+[Github Pages Guide](./githuab-pages)
 
 
 

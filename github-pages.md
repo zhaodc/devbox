@@ -4,17 +4,17 @@
 
 * go to https://github.com, click `Sign up`
 
-  <img src="/Users/zhaodc/Workspace/github/devbox/github-pages.assets/image-20220224143802909.png" alt="image-20220224143802909" style="zoom: 25%;" />	
+  <img src="./github-pages.assets/image-20220224143802909.png" alt="image-20220224143802909" style="zoom: 25%;" />	
 
 ## 2. Create a respository
 
 * plus -> New repository
 
-  <img src="/Users/zhaodc/Workspace/github/devbox/github-pages.assets/image-20220224144018985.png" alt="image-20220224144018985" style="zoom:67%;" />
+  <img src="./github-pages.assets/image-20220224144018985.png" alt="image-20220224144018985" style="zoom:67%;" />
 
 * give a `name` and make is `public`
 
-* ![image-20220224144224507](/Users/zhaodc/Workspace/github/devbox/github-pages.assets/image-20220224144224507.png)
+* ![image-20220224144224507](./github-pages.assets/image-20220224144224507.png)
 
   
 
@@ -23,11 +23,11 @@
 * goto https://github.com/{you account name}/devbox
 * Settings -> Pages
   * set your github pages site source branch, default is `main`
-  * ![image-20220224144844724](/Users/zhaodc/Workspace/github/devbox/github-pages.assets/image-20220224144844724.png)
+  * ![image-20220224144844724](./github-pages.assets/image-20220224144844724.png)
   * choose a theme for the web site, `Cayman` for example.
-  * ![image-20220224144938442](/Users/zhaodc/Workspace/github/devbox/github-pages.assets/image-20220224144938442.png)
+  * ![image-20220224144938442](./github-pages.assets/image-20220224144938442.png)
   * your can also use your own domain, this step need additional DSN parsing.
-  * ![image-20220224145133539](/Users/zhaodc/Workspace/github/devbox/github-pages.assets/image-20220224145133539.png)
+  * ![image-20220224145133539](./github-pages.assets/image-20220224145133539.png)
 
 ## 4. publish content from you personal computer
 
